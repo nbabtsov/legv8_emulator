@@ -1,4 +1,4 @@
-# Programming assignment 2
+# legv8_emulator
 
 Main method idea:
     For n:
