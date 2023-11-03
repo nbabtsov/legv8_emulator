@@ -1,4 +1,4 @@
-# legv8_emulator
+# legv8_emulator (ISU CS321 - Computer Architecture and Machine-Level Programming, 2021)
 
 binary emulator for the LEGv8 ISA, written in Java. Emulator takes an assembled LEGv8 program (binary file) and executes it. 
 
